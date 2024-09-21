@@ -1,8 +1,5 @@
 ## Hi I'm Giovanni Maniezzo 👋
 
-<!--
-**GiovanniManiezzo/GiovanniManiezzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my profile! As a dedicated professional in **Software Engineering** and **Data Science**, I specialize in crafting scalable software solutions and leveraging data to drive innovation and insights.
 
 Over the years, I've worked with a variety of technologies to develop robust applications, machine learning models, and data pipelines. I aim to bridge the gap between data and technology, creating impactful solutions for financial and economic sectors.
@@ -21,3 +18,7 @@ Over the years, I've worked with a variety of technologies to develop robust app
 
 ## Projects & Studies
 This repository contains a collection of my **applications**, **studies**, and **personal work** in **software engineering** and **data science**. Feel free to explore and connect with me if you have any questions or ideas for collaboration!
+
+<!--
+**GiovanniManiezzo/GiovanniManiezzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
