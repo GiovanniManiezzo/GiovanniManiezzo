@@ -11,9 +11,10 @@ Over the years, I've worked with a variety of technologies to develop robust app
 
 ## Technologies
 - **Languages:** Java, Python, COBOL
-- **Frameworks:** Spring Boot, JSF
+- **Frameworks:** Spring Boot, JSF, JUnit
+- 
 - **Machine Learning:** TensorFlow, Scikit-learn, Pandas
-- **Data Engineering:** Kafka, Apache Spark, SQL Server, Hadoop
+- **Data Engineering:** Kafka, Apache Spark, Hadoop, Nifi, SQL Server, MongoDB
 - **DevOps:** Docker, Azure, GitHub Actions
 
 ## Projects & Studies
